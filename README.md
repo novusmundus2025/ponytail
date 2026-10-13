@@ -333,3 +333,7 @@ You know exactly why.
    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=DietrichGebert/ponytail&type=Date" />
  </picture>
 </a>
+
+## Repository-specific licensing
+
+Repository-specific contributions and packaging are licensed under [Apache License 2.0](LICENSE). The original Ponytail implementation remains MIT-licensed, Copyright (c) 2026 DietrichGebert; its unchanged license is preserved in [LICENSES/upstream-MIT.txt](LICENSES/upstream-MIT.txt). Existing upstream MIT permissions and attribution remain in effect.

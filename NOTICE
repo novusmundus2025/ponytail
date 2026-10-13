@@ -1,0 +1,6 @@
+Repository-specific contributions and packaging: Apache License 2.0.
+
+Original Ponytail implementation: Copyright (c) 2026 DietrichGebert.
+The upstream implementation remains licensed under the MIT License.
+Its complete, unchanged license is preserved in LICENSES/upstream-MIT.txt.
+This change does not relicense upstream authors' code or remove their rights.
